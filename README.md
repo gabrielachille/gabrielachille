@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabrielachille
-- 👀 I’m interested in becoming a software or web developer
+- 👀 I’m interested in becoming a software developer
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on any project that can help improve my skills
+- 💞️ I’m looking to collaborate on any project that I can add value too
 - 📫 How to reach me  - gabriel.achille13@gmail.com
 
 <!---
