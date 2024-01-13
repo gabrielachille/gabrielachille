@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielachille
-- 👀 I’m interested in becoming a frontend software developer
-- 🌱 I’m currently learning javascript
+- 👀 I’m a frontend software developer
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to contribute to open source projects
 - 📫 How to reach me  - gabriel.achille13@gmail.com
 
